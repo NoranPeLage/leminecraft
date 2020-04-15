@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-15 10:30:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-13 14:16:27 +0100"
@@ -763,6 +769,7 @@
       "minecraft:spider": "2020-04-13 14:23:10 +0100",
       "minecraft:creeper": "2020-04-13 15:09:39 +0100",
       "minecraft:cave_spider": "2020-04-13 16:59:41 +0100",
+      "minecraft:enderman": "2020-04-15 10:35:57 +0100",
       "minecraft:zombie": "2020-04-13 14:14:21 +0100",
       "minecraft:drowned": "2020-04-13 14:27:10 +0100",
       "minecraft:zombie_villager": "2020-04-14 15:52:31 +0100"
@@ -814,6 +821,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-04-13 16:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-15 10:30:06 +0100"
     },
     "done": true
   },
@@ -1619,6 +1632,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-13 14:13:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-15 10:30:06 +0100"
     },
     "done": true
   },
