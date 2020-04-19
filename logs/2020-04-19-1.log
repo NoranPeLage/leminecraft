@@ -1,0 +1,194 @@
+[13:38:01] [Server thread/INFO]: Loading properties
+[13:38:01] [Server thread/INFO]: This server is running Paper version git-Paper-183 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:38:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:38:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:38:01] [Server thread/INFO]: Debug logging is disabled
+[13:38:01] [Server thread/INFO]: Default game type: SURVIVAL
+[13:38:01] [Server thread/INFO]: Generating keypair
+[13:38:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:38:02] [Server thread/INFO]: Using epoll channel type
+[13:38:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:38:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:38:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:38:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:38:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:38:02] [Server thread/INFO]: Preparing level "world"
+[13:38:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:38:07] [Server thread/INFO]: Loaded 6 recipes
+[13:38:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:38:08] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[13:38:08] [Server thread/INFO]: View Distance: 10
+[13:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:38:08] [Server thread/INFO]: Item Merge Radius: 4.0
+[13:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:38:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:38:08] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[13:38:08] [Server thread/INFO]: View Distance: 10
+[13:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:38:08] [Server thread/INFO]: Item Merge Radius: 4.0
+[13:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:38:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:38:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:38:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:38:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:38:08] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:38:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:38:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:38:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:38:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:38:08] [Server thread/INFO]: Mob Spawn Range: 6
+[13:38:08] [Server thread/INFO]: View Distance: 10
+[13:38:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:38:08] [Server thread/INFO]: Item Merge Radius: 4.0
+[13:38:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:38:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:38:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:38:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:38:08] [Server thread/INFO]: Done (5.898s)! For help, type "help"
+[13:38:08] [Server thread/INFO]: Timings Reset
+[13:58:57] [User Authenticator #1/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[13:58:58] [Server thread/INFO]: Carca[/192.168.1.1:57782] logged in with entity id 1 at ([world]96.20118844873278, 63.0, 452.73943791119564)
+[13:59:19] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[13:59:20] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:00:22] [Server thread/INFO]: Carca lost connection: Disconnected
+[14:00:22] [Server thread/INFO]: Carca left the game
+[14:07:59] [User Authenticator #2/INFO]: UUID of player Quintus is 548997a6-e67a-3d47-9671-8b7a8f4bfe78
+[14:07:59] [Server thread/INFO]: Quintus[/90.30.67.232:51111] logged in with entity id 478 at ([world]101.92547542354791, 56.0, 463.5585600287465)
+[14:14:08] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:14:08] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:17:19] [User Authenticator #3/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[14:17:19] [Server thread/INFO]: Carca[/192.168.1.1:58480] logged in with entity id 2192 at ([world]101.61342728466664, 55.0625, 469.8839848690427)
+[14:19:24] [Server thread/INFO]: Carca issued server command: /icanhasbukkit
+[14:24:40] [Server thread/INFO]: Carca lost connection: Disconnected
+[14:24:40] [Server thread/INFO]: Carca left the game
+[14:32:19] [User Authenticator #4/INFO]: UUID of player Katoun is 957c506c-7259-3f3c-b681-6f6525122e4b
+[14:32:19] [Server thread/INFO]: Katoun[/83.194.76.179:61002] logged in with entity id 4389 at ([world]95.58245472108139, 63.0, 445.5190324466422)
+[14:32:28] [User Authenticator #4/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[14:32:28] [Server thread/INFO]: Carca[/192.168.1.1:58892] logged in with entity id 4435 at ([world]100.60493351290765, 55.0625, 467.6287611982172)
+[14:36:12] [User Authenticator #5/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[14:36:12] [Server thread/INFO]: Archigog[/79.80.111.245:58698] logged in with entity id 4949 at ([world]100.50464448489221, 56.0, 460.1386359788437)
+[14:36:34] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:36:41] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:38:45] [Server thread/INFO]: Carca lost connection: Disconnected
+[14:38:45] [Server thread/INFO]: Carca left the game
+[14:38:46] [User Authenticator #6/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[14:38:46] [Server thread/INFO]: Carca[/192.168.1.1:58908] logged in with entity id 5383 at ([world]85.43334501370984, 63.0, 451.52661870973657)
+[14:42:52] [Server thread/INFO]: Carca lost connection: Disconnected
+[14:42:52] [Server thread/INFO]: Carca left the game
+[14:42:53] [User Authenticator #7/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[14:42:53] [Server thread/INFO]: Carca[/192.168.1.1:58920] logged in with entity id 5875 at ([world]100.32683108908782, 55.0, 465.9827290171157)
+[14:51:03] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:51:33] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:51:39] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:51:40] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:51:45] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:51:48] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[14:52:18] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:52:21] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:52:23] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:24] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:24] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:52:27] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:28] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:32] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:32] [Server thread/WARN]: Player Quintus just tried to change non-editable sign
+[14:52:32] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:36] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:40] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:42] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:52:42] [Server thread/WARN]: Player Carca just tried to change non-editable sign
+[14:59:09] [Server thread/INFO]: Quintus has made the advancement [Take Aim]
+[15:03:18] [Async Chat Thread - #0/INFO]: <Katoun> 99, 72, 86
+[15:08:41] [Server thread/INFO]: Archigog has completed the challenge [Return to Sender]
+[15:25:20] [Server thread/INFO]: Archigog has made the advancement [Into Fire]
+[15:32:35] [Server thread/INFO]: Carca tried to swim in lava
+[15:34:03] [Server thread/INFO]: Katoun withered away
+[15:34:52] [Server thread/INFO]: Archigog has made the advancement [Ice Bucket Challenge]
+[15:37:54] [Server thread/INFO]: Katoun was slain by Husk
+[15:40:57] [Server thread/INFO]: Teleported Katoun to Archigog
+[15:41:02] [Server thread/INFO]: Teleported Katoun to Carca
+[15:57:06] [Server thread/WARN]: Archigog moved wrongly!
+[16:01:10] [Server thread/INFO]: Carca has completed the challenge [Return to Sender]
+[16:06:24] [Server thread/INFO]: Quintus has reached the goal [Hired Help]
+[16:06:24] [Server thread/INFO]: Carca has reached the goal [Hired Help]
+[16:06:24] [Server thread/INFO]: Katoun has reached the goal [Hired Help]
+[16:12:57] [Server thread/INFO]: Villager EntityVillager['Villager'/26911, uuid='ab05d402-194d-49e7-ab20-f8266e39bdd1', l='world', x=564.39, y=72.00, z=336.53, cx=35, cz=21, tl=73222, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[16:27:15] [User Authenticator #8/INFO]: UUID of player Snippet is 96c8e5f8-f063-3286-8632-1102f3740863
+[16:27:15] [Server thread/INFO]: Snippet[/81.185.128.93:43170] logged in with entity id 32118 at ([world]106.26148362229169, 63.5625, 454.336246637664)
+[16:32:37] [Server thread/WARN]: Player Archigog just tried to change non-editable sign
+[16:46:57] [Server thread/INFO]: Quintus lost connection: Disconnected
+[16:46:57] [Server thread/INFO]: Quintus left the game
+[16:46:59] [User Authenticator #9/INFO]: UUID of player Quintus is 548997a6-e67a-3d47-9671-8b7a8f4bfe78
+[16:46:59] [Server thread/INFO]: Quintus[/90.30.67.232:51362] logged in with entity id 35826 at ([world]103.31646384618207, 55.0, 475.69999998807907)
+[17:00:46] [Server thread/INFO]: Snippet was fireballed by Blaze
+[17:20:30] [Server thread/WARN]: Archigog moved wrongly!
+[17:25:01] [Server thread/INFO]: Villager EntityVillager['Farmer'/27378, uuid='34e3398d-1132-4848-8f45-bbafd0648e86', l='world', x=59.96, y=61.90, z=458.31, cx=3, cz=28, tl=164177, v=true, d=false] died, message: 'Farmer was slain by Carca'
+[17:34:04] [Server thread/INFO]: Villager EntityVillager['Farmer'/27377, uuid='95f181c5-9ba3-4b53-ae9d-8a74b180e938', l='world', x=54.30, y=59.56, z=453.30, cx=3, cz=28, tl=175028, v=true, d=false] died, message: 'Farmer suffocated in a wall'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

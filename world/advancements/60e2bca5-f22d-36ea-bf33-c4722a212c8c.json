@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-19 16:02:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 11:34:51 +0200"
@@ -416,6 +422,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-04-13 17:49:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-19 16:06:24 +0200"
     },
     "done": true
   },
@@ -530,6 +542,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-04-16 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-19 16:01:10 +0200"
     },
     "done": true
   },
@@ -707,6 +725,7 @@
       "minecraft:blaze": "2020-04-16 18:33:18 +0200",
       "minecraft:skeleton": "2020-04-13 11:36:54 +0200",
       "minecraft:zombie_pigman": "2020-04-18 15:34:12 +0200",
+      "minecraft:ghast": "2020-04-19 15:10:39 +0200",
       "minecraft:magma_cube": "2020-04-16 18:50:11 +0200",
       "minecraft:spider": "2020-04-13 12:02:51 +0200",
       "minecraft:creeper": "2020-04-13 16:05:53 +0200",
@@ -2139,6 +2158,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2020-04-19 16:45:49 +0200",
       "minecraft:cow": "2020-04-18 00:23:32 +0200"
     },
     "done": false
@@ -2476,6 +2496,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-13 16:30:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-19 16:02:47 +0200"
     },
     "done": true
   },

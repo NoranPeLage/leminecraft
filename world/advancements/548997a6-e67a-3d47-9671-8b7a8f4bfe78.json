@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-19 15:25:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-14 18:45:04 +0200"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-04-14 19:12:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-19 16:06:24 +0200"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-04-15 19:54:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-19 14:47:30 +0200"
     },
     "done": true
   },
@@ -570,6 +588,7 @@
       "minecraft:blaze": "2020-04-16 18:40:57 +0200",
       "minecraft:skeleton": "2020-04-14 19:17:33 +0200",
       "minecraft:zombie_pigman": "2020-04-16 18:29:43 +0200",
+      "minecraft:ghast": "2020-04-19 15:10:15 +0200",
       "minecraft:spider": "2020-04-14 19:56:42 +0200",
       "minecraft:creeper": "2020-04-15 19:26:46 +0200",
       "minecraft:slime": "2020-04-16 19:22:38 +0200",
@@ -603,6 +622,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-04-15 19:18:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 14:54:08 +0200"
     },
     "done": true
   },
@@ -677,6 +702,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-18 14:32:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 14:54:08 +0200"
     },
     "done": true
   },
@@ -878,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-19 14:47:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-04-17 18:55:01 +0200"
@@ -887,6 +924,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-14 18:45:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-19 15:06:28 +0200"
     },
     "done": true
   },
@@ -1235,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 14:54:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2020-04-18 19:09:05 +0200"
@@ -1364,6 +1413,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-14 19:12:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-19 14:47:30 +0200"
     },
     "done": true
   },
@@ -1556,6 +1611,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-04-18 00:15:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-04-19 15:04:11 +0200"
     },
     "done": true
   },
@@ -1835,6 +1896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-19 15:25:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-14 18:40:28 +0200"
@@ -1931,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-04-19 15:04:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-04-14 19:42:58 +0200"
@@ -1976,6 +2049,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-15 20:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-19 15:06:28 +0200"
     },
     "done": true
   },
@@ -2333,15 +2412,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2020-04-18 19:20:52 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-04-18 17:06:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-18 19:20:52 +0200"
     },
     "done": true
   },
@@ -2408,6 +2487,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-15 19:18:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-19 16:26:25 +0200"
     },
     "done": true
   },
@@ -2486,6 +2571,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-14 18:16:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-19 14:59:09 +0200"
     },
     "done": true
   },
