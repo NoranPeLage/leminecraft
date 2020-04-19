@@ -1,0 +1,190 @@
+[00:07:09] [Server thread/INFO]: Quintus has made the advancement [Fishy Business]
+[00:23:32] [Server thread/INFO]: Carca has made the advancement [The Parrots and the Bats]
+[00:23:48] [Server thread/INFO]: Quintus has made the advancement [The Parrots and the Bats]
+[00:35:07] [Server thread/INFO]: Archigog has made the advancement [The Parrots and the Bats]
+[01:07:23] [Server thread/INFO]: Quintus tried to swim in lava
+[01:09:20] [Server thread/INFO]: Villager EntityVillager['Villager'/83433, uuid='94df4cd5-f802-4e2c-88dd-60051d36b7ca', l='world', x=1562.39, y=63.00, z=-311.04, cx=97, cz=-20, tl=16969, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[01:09:33] [Server thread/INFO]: Villager EntityVillager['Villager'/83435, uuid='86d0cb7b-91f9-4515-905e-977abf68f650', l='world', x=1559.79, y=64.00, z=-301.70, cx=97, cz=-19, tl=17193, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[01:09:41] [Server thread/INFO]: Teleported Quintus to Katoun
+[01:30:31] [Server thread/INFO]: Archigog fell from a high place
+[01:31:18] [Server thread/INFO]: Archigog lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Archigog left the game
+[01:39:14] [Server thread/INFO]: Quintus lost connection: Disconnected
+[01:39:14] [Server thread/INFO]: Quintus left the game
+[01:50:17] [Server thread/INFO]: Rixdiz has made the advancement [Diamonds!]
+[01:54:47] [Server thread/INFO]: Rixdiz has made the advancement [Enchanter]
+[02:11:41] [Server thread/INFO]: Rixdiz lost connection: Disconnected
+[02:11:41] [Server thread/INFO]: Rixdiz left the game
+[02:11:47] [Server thread/INFO]: Carca lost connection: Disconnected
+[02:11:47] [Server thread/INFO]: Carca left the game
+[02:12:28] [Server thread/INFO]: Katoun fell from a high place
+[02:14:14] [Server thread/INFO]: Katoun lost connection: Disconnected
+[02:14:14] [Server thread/INFO]: Katoun left the game
+[12:29:14] [User Authenticator #6/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[12:29:14] [Server thread/INFO]: Carca[/192.168.1.1:51894] logged in with entity id 102567 at ([world]94.29999997466803, 63.0000002, 455.299999974668)
+[12:37:16] [User Authenticator #7/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[12:37:16] [Server thread/INFO]: Archigog[/79.80.111.245:42104] logged in with entity id 104088 at ([world]100.46041381803226, 55.0625, 466.48852187402537)
+[12:50:01] [User Authenticator #8/INFO]: UUID of player Albusa is 132f0d72-b726-32de-927a-bc6987c4c101
+[12:50:01] [Server thread/INFO]: Albusa[/92.138.246.167:49695] logged in with entity id 105840 at ([world]-120.5, 71.0, 226.5)
+[13:09:34] [Server thread/INFO]: Albusa has made the advancement [A Seedy Place]
+[13:12:01] [User Authenticator #9/INFO]: UUID of player Katoun is 957c506c-7259-3f3c-b681-6f6525122e4b
+[13:12:01] [Server thread/INFO]: Katoun[/83.194.76.179:54113] logged in with entity id 109809 at ([world]43.91339482627584, 128.0, 411.0135229208453)
+[13:12:01] [Server thread/INFO]: Albusa was slain by Zombie
+[13:12:07] [Server thread/INFO]: Katoun lost connection: Disconnected
+[13:12:07] [Server thread/INFO]: Katoun left the game
+[13:12:38] [User Authenticator #9/INFO]: UUID of player Katoun is 957c506c-7259-3f3c-b681-6f6525122e4b
+[13:12:38] [Server thread/INFO]: Katoun[/83.194.76.179:54147] logged in with entity id 109915 at ([world]43.91339482627584, 128.0, 411.0135229208453)
+[13:12:48] [Server thread/INFO]: Albusa lost connection: Disconnected
+[13:12:48] [Server thread/INFO]: Albusa left the game
+[13:32:47] [Server thread/INFO]: Carca has made the advancement [Ice Bucket Challenge]
+[13:47:43] [Server thread/INFO]: Archigog issued server command: /time
+[13:47:54] [Server thread/INFO]: Archigog issued server command: /
+[13:48:07] [Server thread/INFO]: Archigog issued server command: /bukkit:about
+[13:48:21] [Server thread/INFO]: Archigog issued server command: /bukkit:?
+[13:48:38] [Server thread/INFO]: Archigog issued server command: /help 2
+[13:48:50] [Server thread/INFO]: Archigog issued server command: /help 3
+[13:48:56] [Server thread/INFO]: Archigog issued server command: /bukkit:plugins
+[13:49:24] [Server thread/INFO]: Archigog issued server command: /
+[13:49:29] [Server thread/INFO]: Archigog issued server command: /plugins
+[13:49:34] [Server thread/INFO]: Archigog issued server command: /w
+[13:49:41] [Server thread/INFO]: Archigog issued server command: /w Carca coucou
+[13:49:54] [Server thread/INFO]: Archigog issued server command: /w Katoun coucou toi
+[13:49:55] [Server thread/INFO]: Carca issued server command: /whisper Archigog hey
+[13:50:24] [Server thread/INFO]: You whisper to Archigog: yo
+[13:50:30] [Server thread/INFO]: You whisper to Archigog: yo
+[13:50:51] [Server thread/INFO]: Archigog issued server command: /teammsg lololo
+[13:58:51] [User Authenticator #10/INFO]: UUID of player Quintus is 548997a6-e67a-3d47-9671-8b7a8f4bfe78
+[13:58:52] [Server thread/INFO]: Quintus[/90.30.67.232:49865] logged in with entity id 123815 at ([world]98.84829818740926, 67.0, 443.02173930337113)
+[14:09:50] [Server thread/INFO]: Archigog issued server command: /time
+[14:10:28] [Server thread/INFO]: Archigog lost connection: Disconnected
+[14:10:28] [Server thread/INFO]: Archigog left the game
+[14:10:58] [Server thread/INFO]: Villager EntityVillager['Villager'/129602, uuid='c68c0728-81f0-40aa-aff7-3c21c009fb1f', l='world', x=286.91, y=64.00, z=-2354.09, cx=17, cz=-148, tl=14140, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[14:12:09] [User Authenticator #11/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[14:12:09] [Server thread/INFO]: Archigog[/79.80.111.245:49968] logged in with entity id 130819 at ([world]-484.91877000588596, 62.0, 620.9277139868929)
+[14:26:28] [Server thread/INFO]: Quintus lost connection: Disconnected
+[14:26:28] [Server thread/INFO]: Quintus left the game
+[14:26:31] [Server thread/INFO]: Katoun lost connection: Disconnected
+[14:26:31] [Server thread/INFO]: Katoun left the game
+[14:26:59] [Async Chat Thread - #0/INFO]: <Archigog> dodo
+[14:27:08] [User Authenticator #12/INFO]: UUID of player Quintus is 548997a6-e67a-3d47-9671-8b7a8f4bfe78
+[14:27:08] [Server thread/INFO]: Quintus[/90.30.67.232:49922] logged in with entity id 138011 at ([world]166.99269169180485, 94.0, -2615.8144799588467)
+[14:27:11] [User Authenticator #12/INFO]: UUID of player Katoun is 957c506c-7259-3f3c-b681-6f6525122e4b
+[14:27:11] [Server thread/INFO]: Katoun[/83.194.76.179:54436] logged in with entity id 138233 at ([world]168.19903795725708, 94.0, -2616.879997836665)
+[14:36:01] [Async Chat Thread - #1/INFO]: <Katoun> 429 , -2233
+[14:58:20] [Server thread/INFO]: Archigog lost connection: Disconnected
+[14:58:20] [Server thread/INFO]: Archigog left the game
+[15:27:34] [User Authenticator #13/INFO]: UUID of player Albusa is 132f0d72-b726-32de-927a-bc6987c4c101
+[15:27:34] [Server thread/INFO]: Albusa[/92.138.246.167:51344] logged in with entity id 159748 at ([world]102.5, 63.0625002, 443.5)
+[15:35:04] [Server thread/INFO]: Katoun has made the advancement [Enchanter]
+[15:39:14] [Async Chat Thread - #2/INFO]: <Carca> Tu viens pas discord Cam ?
+[15:39:41] [Server thread/INFO]: Albusa lost connection: Disconnected
+[15:39:41] [Server thread/INFO]: Albusa left the game
+[15:39:45] [User Authenticator #14/INFO]: UUID of player Albusa is 132f0d72-b726-32de-927a-bc6987c4c101
+[15:39:45] [Server thread/INFO]: Albusa[/92.138.246.167:52553] logged in with entity id 162769 at ([world]105.76249998807907, 56.0, 457.66820383692715)
+[15:47:10] [Server thread/INFO]: Albusa has made the advancement [Suit Up]
+[15:47:13] [Server thread/INFO]: Albusa has made the advancement [Isn't It Iron Pick]
+[15:52:39] [Server thread/INFO]: Albusa has made the advancement [Acquire Hardware]
+[16:00:25] [Server thread/INFO]: Albusa lost connection: Disconnected
+[16:00:25] [Server thread/INFO]: Albusa left the game
+[16:02:15] [Server thread/INFO]: Quintus lost connection: Disconnected
+[16:02:15] [Server thread/INFO]: Quintus left the game
+[16:04:14] [User Authenticator #15/INFO]: UUID of player Albusa is 132f0d72-b726-32de-927a-bc6987c4c101
+[16:04:14] [Server thread/INFO]: Albusa[/92.138.246.167:52722] logged in with entity id 167522 at ([world]55.75193451327515, 37.0, 566.6999999880791)
+[16:04:46] [User Authenticator #15/INFO]: UUID of player Snippet is 96c8e5f8-f063-3286-8632-1102f3740863
+[16:04:46] [Server thread/INFO]: Snippet[/81.185.128.93:35276] logged in with entity id 167652 at ([world]105.67185367350855, 63.0, 453.34445095646345)
+[16:04:55] [Server thread/INFO]: Albusa has made the advancement [Stone Age]
+[16:11:23] [Server thread/INFO]: Albusa lost connection: Disconnected
+[16:11:23] [Server thread/INFO]: Albusa left the game
+[16:43:16] [Server thread/INFO]: Katoun has made the advancement [Take Aim]
+[16:51:55] [Server thread/INFO]: Carca lost connection: Disconnected
+[16:51:55] [Server thread/INFO]: Carca left the game
+[16:54:47] [User Authenticator #16/INFO]: UUID of player Quintus is 548997a6-e67a-3d47-9671-8b7a8f4bfe78
+[16:54:47] [Server thread/INFO]: Quintus[/90.30.67.232:50221] logged in with entity id 177885 at ([world]78.1667058946945, 75.0, 449.531444199329)
+[16:55:27] [Server thread/INFO]: Snippet has made the advancement [Local Brewery]
+[17:09:04] [Server thread/INFO]: Snippet has completed the challenge [Return to Sender]
+[17:24:45] [Server thread/INFO]: Snippet has made the advancement [Take Aim]
+[17:27:48] [Server thread/INFO]: Snippet has made the advancement [Cover Me With Diamonds]
+[17:36:10] [Server thread/INFO]: Snippet lost connection: Disconnected
+[17:36:10] [Server thread/INFO]: Snippet left the game
+[18:25:07] [User Authenticator #17/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[18:25:08] [Server thread/INFO]: Archigog[/79.80.111.245:42034] logged in with entity id 193819 at ([world]72.30000001192093, 61.0, 477.9338430675149)
+[19:58:47] [User Authenticator #18/INFO]: UUID of player Carca is 60e2bca5-f22d-36ea-bf33-c4722a212c8c
+[19:58:47] [Server thread/INFO]: Carca[/192.168.1.1:53518] logged in with entity id 209387 at ([world]93.87772964104894, 63.5625, 453.92271601608)
+[20:04:42] [Server thread/INFO]: Katoun lost connection: Disconnected
+[20:04:42] [Server thread/INFO]: Katoun left the game
+[20:17:34] [Server thread/INFO]: Quintus lost connection: Disconnected
+[20:17:34] [Server thread/INFO]: Quintus left the game
+[20:22:07] [User Authenticator #19/INFO]: UUID of player Katoun is 957c506c-7259-3f3c-b681-6f6525122e4b
+[20:22:07] [Server thread/INFO]: Katoun[/83.194.76.179:55955] logged in with entity id 213975 at ([world]86.45781064143225, 63.0, 453.4306425753859)
+[20:24:36] [Server thread/INFO]: Carca has made the advancement [Take Aim]
+[20:35:18] [Server thread/INFO]: Archigog has made the advancement [Best Friends Forever]
+[20:56:17] [Async Chat Thread - #3/INFO]: <Katoun> 380, -2300
+[20:56:18] [Async Chat Thread - #3/INFO]: <Carca> 380 -2300
+[21:04:14] [Server thread/INFO]: Archigog lost connection: Disconnected
+[21:04:14] [Server thread/INFO]: Archigog left the game
+[21:11:33] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:13:01] [Server thread/WARN]: 3905b50f-5f41-4af3-88b2-865a3f556c5f (vehicle of Katoun) moved wrongly!
+[21:13:08] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:17:08] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:31] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:32] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:33] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:33] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:33] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:25:33] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:31:27] [Server thread/WARN]: 3905b50f-5f41-4af3-88b2-865a3f556c5f (vehicle of Katoun) moved wrongly!
+[21:31:37] [Server thread/WARN]: 886154a2-e651-430b-b4e9-930ca476ac43 (vehicle of Carca) moved wrongly!
+[21:31:37] [Server thread/WARN]: 3905b50f-5f41-4af3-88b2-865a3f556c5f (vehicle of Katoun) moved wrongly!
+[21:40:21] [User Authenticator #20/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[21:40:22] [Server thread/INFO]: Archigog[/79.80.111.245:58732] logged in with entity id 247113 at ([world]113.89784211100675, 63.0, 447.34622915237753)
+[21:40:33] [Async Chat Thread - #4/INFO]: <Archigog> je test des mods
+[21:40:36] [Async Chat Thread - #4/INFO]: <Archigog> pas de micro
+[21:40:41] [Async Chat Thread - #4/INFO]: <Archigog> je me casse
+[21:40:46] [Server thread/INFO]: Archigog lost connection: Disconnected
+[21:40:46] [Server thread/INFO]: Archigog left the game
+[21:45:19] [Server thread/INFO]: Carca lost connection: Disconnected
+[21:45:19] [Server thread/INFO]: Carca left the game
+[21:45:27] [Server thread/INFO]: Katoun lost connection: Disconnected
+[21:45:27] [Server thread/INFO]: Katoun left the game
+[21:49:37] [User Authenticator #21/INFO]: UUID of player Archigog is e9a894be-82f6-3f3c-9803-76c6b1287410
+[21:49:37] [Server thread/INFO]: Archigog[/79.80.111.245:59540] logged in with entity id 247970 at ([world]113.89784211100675, 63.0, 447.34622915237753)
+[21:51:27] [Server thread/INFO]: Archigog lost connection: Disconnected
+[21:51:27] [Server thread/INFO]: Archigog left the game
+[21:57:37] [Server thread/INFO]: Stopping server
+[21:57:37] [Server thread/INFO]: Saving players
+[21:57:37] [Server thread/INFO]: Saving worlds
+[21:57:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:57:37] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:37] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
