@@ -607,6 +607,7 @@
       "minecraft:magma_cube": "2020-04-16 16:16:06 +0200",
       "minecraft:spider": "2020-04-13 15:23:10 +0200",
       "minecraft:creeper": "2020-04-13 16:09:39 +0200",
+      "minecraft:slime": "2020-04-20 16:29:18 +0200",
       "minecraft:wither_skeleton": "2020-04-16 16:10:41 +0200",
       "minecraft:cave_spider": "2020-04-13 17:59:41 +0200",
       "minecraft:enderman": "2020-04-15 11:35:57 +0200",
@@ -1138,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-20 16:29:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-13 15:13:31 +0200"
@@ -1663,6 +1670,7 @@
       "bread": "2020-04-13 16:10:44 +0200",
       "golden_apple": "2020-04-15 19:26:26 +0200",
       "beetroot": "2020-04-14 16:59:10 +0200",
+      "cooked_chicken": "2020-04-20 17:06:31 +0200",
       "carrot": "2020-04-16 11:12:05 +0200"
     },
     "done": false
@@ -2095,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-20 16:29:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-15 15:57:30 +0200"
@@ -2374,6 +2388,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-13 17:52:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-20 16:29:32 +0200"
     },
     "done": true
   },
