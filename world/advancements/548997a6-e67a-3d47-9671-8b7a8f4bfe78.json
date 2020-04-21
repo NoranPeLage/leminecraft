@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-04-20 19:29:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-04-15 18:49:15 +0200"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-14 18:16:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-20 19:58:58 +0200"
     },
     "done": true
   },
@@ -523,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-20 19:58:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-04-14 18:19:59 +0200"
@@ -556,6 +574,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-14 18:40:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-04-20 19:29:17 +0200"
     },
     "done": true
   },
@@ -622,6 +646,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-04-15 19:44:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-04-20 19:30:19 +0200"
     },
     "done": true
   },
@@ -939,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-04-20 19:29:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-04-14 20:03:15 +0200"
@@ -978,6 +1014,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2020-04-14 20:03:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-04-20 19:30:19 +0200"
     },
     "done": true
   },
@@ -1272,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-20 19:58:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-15 19:04:38 +0200"
@@ -1392,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-04-20 19:29:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-18 14:32:46 +0200"
@@ -1419,6 +1473,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-14 19:12:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-04-20 19:29:18 +0200"
     },
     "done": true
   },
@@ -1647,11 +1707,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-18 00:30:44 +0200",
+      "cooked_mutton": "2020-04-20 18:37:00 +0200",
       "cooked_beef": "2020-04-14 20:01:13 +0200",
       "porkchop": "2020-04-14 19:15:39 +0200",
       "apple": "2020-04-17 23:08:24 +0200",
       "mutton": "2020-04-14 18:40:33 +0200",
-      "bread": "2020-04-14 19:18:37 +0200"
+      "bread": "2020-04-14 19:18:37 +0200",
+      "golden_apple": "2020-04-20 18:44:41 +0200"
     },
     "done": false
   },
@@ -1863,6 +1925,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-16 19:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-04-20 19:30:19 +0200"
     },
     "done": true
   },
@@ -2331,6 +2399,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-18 19:20:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-04-20 19:29:17 +0200"
     },
     "done": true
   },
