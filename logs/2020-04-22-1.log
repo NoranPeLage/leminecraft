@@ -1,0 +1,13 @@
+[10:03:12] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[10:07:57] [Server thread/INFO]: Stopping server
+[10:07:57] [Server thread/INFO]: Saving players
+[10:07:57] [Server thread/INFO]: Saving worlds
+[10:07:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:07:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:07:57] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

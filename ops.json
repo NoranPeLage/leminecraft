@@ -1,5 +1,53 @@
 [
   {
+    "uuid": "e9a894be-82f6-3f3c-9803-76c6b1287410",
+    "name": "Archigog",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "957c506c-7259-3f3c-b681-6f6525122e4b",
+    "name": "Katoun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "96c8e5f8-f063-3286-8632-1102f3740863",
+    "name": "Snippet",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4ff7565e-ab73-3d15-9415-6d52b21f2bb9",
+    "name": "Gloof",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "548997a6-e67a-3d47-9671-8b7a8f4bfe78",
+    "name": "Quintus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "60e2bca5-f22d-36ea-bf33-c4722a212c8c",
+    "name": "Carca",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6f7cfd1e-b238-3d42-91ad-4051b352699b",
+    "name": "Looping",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d3e3b484-25e5-386a-9d99-15488c1c3e65",
+    "name": "Rixdiz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "49e7fec8-13fc-4f56-bb1c-e395ac523e96",
     "name": "rixdiz",
     "level": 4,
